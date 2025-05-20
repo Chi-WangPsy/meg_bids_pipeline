@@ -1,0 +1,6 @@
+mne
+mne-bids
+numpy
+scipy
+jupyter
+pytest

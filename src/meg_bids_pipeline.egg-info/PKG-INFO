@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: meg-bids-pipeline
+Version: 0.1.0
+Summary: Demo MEG pipeline with BIDS input
+Author: Chi Wang
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: mne
+Requires-Dist: mne-bids
+Requires-Dist: numpy
+
+# MEG BIDS Pipeline
+
+A small package to demonstrate BIDS-compatible MEG analysis using MNE-Python.

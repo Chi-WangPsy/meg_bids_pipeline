@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+src/meg_bids_pipeline.egg-info/PKG-INFO
+src/meg_bids_pipeline.egg-info/SOURCES.txt
+src/meg_bids_pipeline.egg-info/dependency_links.txt
+src/meg_bids_pipeline.egg-info/requires.txt
+src/meg_bids_pipeline.egg-info/top_level.txt
+src/meg_pipeline/__init__.py
+src/meg_pipeline/bids_reader.py
+src/meg_pipeline/preprocessing.py
